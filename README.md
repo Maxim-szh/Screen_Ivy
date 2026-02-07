@@ -6,6 +6,13 @@
 
 ---
 
+# 🖼 ScreenIvy — Скриншот-менеджер на Python
+
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PyPI](https://img.shields.io/badge/PyPI-Pillow%2C%20pystray%2C%20keyboard-orange)
+
+
 ## ✨ Возможности
 
 * 📸 **Выбор области** для скриншота
