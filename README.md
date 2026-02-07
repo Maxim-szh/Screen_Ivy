@@ -21,8 +21,8 @@
 1. Клонируем репозиторий:
 
 ```bash
-git clone https://github.com/USERNAME/ScreenshotManager.git
-cd ScreenshotManager
+[git clone https://github.com/Maxim-szh/Screen_Ivy.git
+cd Screen_Ivy
 ```
 
 2. Устанавливаем зависимости:
