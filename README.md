@@ -21,7 +21,7 @@
 1. Клонируем репозиторий:
 
 ```bash
-[git clone https://github.com/Maxim-szh/Screen_Ivy.git
+git clone https://github.com/Maxim-szh/Screen_Ivy.git
 cd ScreenIvy
 ```
 
