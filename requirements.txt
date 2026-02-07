@@ -1,3 +1,4 @@
-Pillow
-pystray
-keyboard
+pillow==12.1.0
+pystray==0.19.5
+keyboard==0.13.5
+
