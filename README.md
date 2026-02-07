@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## 🚀 Запуск
 
 ```bash
-python screenshot_app.py
+python Screen_Ivy.py
 ```
 
 или запустите готовый `.exe` файл:
