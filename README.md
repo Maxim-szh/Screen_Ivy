@@ -73,7 +73,7 @@ ScreenIvy.exe
 
 ## 📄 Лицензия
 
-MIT License © Твоё имя / GitHub
+MIT License © Maxim-szh / GitHub
 
 
 
