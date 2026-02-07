@@ -22,7 +22,7 @@
 
 ```bash
 [git clone https://github.com/Maxim-szh/Screen_Ivy.git
-cd Screen_Ivy
+cd ScreenIvy
 ```
 
 2. Устанавливаем зависимости:
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## 🚀 Запуск
 
 ```bash
-python Screen_Ivy.py
+python ScreenIvy.py
 ```
 
 или запустите готовый `.exe` файл:
@@ -74,11 +74,3 @@ ScreenIvy.exe
 ## 📄 Лицензия
 
 MIT License © Maxim-szh / GitHub
-
-
-
-
-
-
-
-
