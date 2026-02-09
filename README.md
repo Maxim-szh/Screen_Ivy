@@ -1,8 +1,14 @@
 <div align="center">
 
-  [Русский](./README.ru.md) | **English**
+  <h3>🌐 Language / Язык</h3>
+  <a href="./README.md">🇺🇸 English</a> • 
+  <a href="./README.ru.md">🇷🇺 Русский</a>
 
 </div>
+
+<br>
+
+<div align="center">
 
 # 🖼 ScreenIvy — Python Screenshot Manager
 
@@ -11,6 +17,8 @@
 ![PyPI](https://img.shields.io/badge/PyPI-Pillow%2C%20pystray%2C%20keyboard-orange)
 
 **ScreenIvy** — a lightweight and convenient screenshot manager with region selection, global PrintScreen hotkey, and system tray minimization.
+
+</div>
 
 ## ✨ Features
 
