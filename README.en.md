@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   [Русский](./README.ru.md) | **English**
