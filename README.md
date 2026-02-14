@@ -3,7 +3,7 @@
   <h3>🌐 Language / Язык</h3>
   <a href="./README.md">🇺🇸 English</a> • 
   <a href="./README.ru.md">🇷🇺 Русский</a>
- 
+  
 </div>
 
 <br>
