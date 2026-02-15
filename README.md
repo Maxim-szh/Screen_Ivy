@@ -19,7 +19,7 @@
 **ScreenIvy** — a lightweight and convenient screenshot manager with region selection, global PrintScreen hotkey, and system tray minimization.
 
 </div>
-
+ 
 ## ✨ Features
 
 * 📸 **Region selection** for screenshots
