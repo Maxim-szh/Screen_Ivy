@@ -7,7 +7,7 @@
 </div>
   
 <br>
-    
+     
 <div align="center">
 
 # 🖼 ScreenIvy — Python Screenshot Manager
